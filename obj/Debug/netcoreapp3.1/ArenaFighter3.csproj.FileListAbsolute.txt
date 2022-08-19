@@ -11,3 +11,17 @@ F:\Education\Lexicon\Programmerare .NET\Inlämningsuppgifter\01 CSharp\ArenaFigh
 F:\Education\Lexicon\Programmerare .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.dll
 F:\Education\Lexicon\Programmerare .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.pdb
 F:\Education\Lexicon\Programmerare .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.genruntimeconfig.cache
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\bin\Debug\netcoreapp3.1\ArenaFighter3.exe
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\bin\Debug\netcoreapp3.1\ArenaFighter3.deps.json
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\bin\Debug\netcoreapp3.1\ArenaFighter3.runtimeconfig.json
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\bin\Debug\netcoreapp3.1\ArenaFighter3.runtimeconfig.dev.json
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\bin\Debug\netcoreapp3.1\ArenaFighter3.dll
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\bin\Debug\netcoreapp3.1\ArenaFighter3.pdb
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.csproj.AssemblyReference.cache
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.AssemblyInfoInputs.cache
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.AssemblyInfo.cs
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.csproj.CoreCompileInputs.cache
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.dll
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.pdb
+F:\Education\Other Institutions\Lexicon\Programmering .NET\Inlämningsuppgifter\01 CSharp\ArenaFighter3\obj\Debug\netcoreapp3.1\ArenaFighter3.genruntimeconfig.cache

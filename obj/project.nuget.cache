@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "azU5UN1nP6JLyL2dCO7f2pWtDtDIiGF9nv1y9OA65SYBMXGEaWMxnWjpT95O2ShdDmT0K02YjtEunTKBYCfSrQ==",
+  "dgSpecHash": "t3QV2bjcCOLNLiE+JZuns/WPF9nkbPlmqeHUj9Hs0W7vsf0kJO9nY1b/faQSzxrpUSQGzUUlB0GFCDIOThgDDw==",
   "success": true,
-  "projectFilePath": "F:\\Education\\Lexicon\\Programmerare .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\ArenaFighter3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Education\\Other Institutions\\Lexicon\\Programmering .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\ArenaFighter3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Education\\Lexicon\\Programmerare .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\ArenaFighter3.csproj": {}
+    "F:\\Education\\Other Institutions\\Lexicon\\Programmering .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\ArenaFighter3.csproj": {}
   },
   "projects": {
-    "F:\\Education\\Lexicon\\Programmerare .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\ArenaFighter3.csproj": {
+    "F:\\Education\\Other Institutions\\Lexicon\\Programmering .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\ArenaFighter3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Education\\Lexicon\\Programmerare .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\ArenaFighter3.csproj",
+        "projectUniqueName": "F:\\Education\\Other Institutions\\Lexicon\\Programmering .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\ArenaFighter3.csproj",
         "projectName": "ArenaFighter3",
-        "projectPath": "F:\\Education\\Lexicon\\Programmerare .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\ArenaFighter3.csproj",
+        "projectPath": "F:\\Education\\Other Institutions\\Lexicon\\Programmering .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\ArenaFighter3.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "F:\\Education\\Lexicon\\Programmerare .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\obj\\",
+        "outputPath": "F:\\Education\\Other Institutions\\Lexicon\\Programmering .NET\\Inlämningsuppgifter\\01 CSharp\\ArenaFighter3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -53,12 +55,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
