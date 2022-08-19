@@ -27,9 +27,3 @@ attributes (name, strength, health)
 references to both the player and the opponent.
 * Round – one round of dice rolling; should correspond to a post in the battle
 log.
-
-__Optional:__
-* Add in arena variety, giving bonuses and penalties based on gear and other
-factors. Which one ends up being used should be random.
-* When the player is victorious, award them with in-game currency, which can
-be spent on upgrading their gear, increasing their statistics.
